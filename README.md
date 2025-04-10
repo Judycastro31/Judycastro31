@@ -3,6 +3,6 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cybersecurity/cybersecurity.png" width="300"><br>
-  <b>🔐 Seguridad Cibernética en Acción 🔐</b>
+  <img src="https://i.imgur.com/JXkkFVk.png" width="300"><br>
+  <b>👩‍💻 Girl Power en Ciberseguridad 👩‍💻</b>
 </p>
