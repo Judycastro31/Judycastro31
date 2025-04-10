@@ -7,11 +7,15 @@ Este libro representa el inicio del viaje en el mundo de la programación con Py
 
 
 ![image](https://github.com/user-attachments/assets/8f18f4e1-d014-4837-861e-36384cb94302)
+
  <b>👩‍💻 Girl Power en Ciberseguridad 👩‍💻</b>
+ 
 
  ![image](https://github.com/user-attachments/assets/613fc3ea-38b9-4c30-bf8c-70b7ca593311)
+
  <b>🔒 Cuidando cada bit de información 🔒</b>
 
  ![image](https://github.com/user-attachments/assets/99d1af01-6643-425f-b8c9-bc4fc2818f4d)
+
 
 <b>🌐 Soñando con un internet más seguro 🌐</b>
