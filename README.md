@@ -2,7 +2,8 @@
 
  
 
- ![image](https://github.com/user-attachments/assets/613fc3ea-38b9-4c30-bf8c-70b7ca593311)
+![githun2](https://github.com/user-attachments/assets/e4a4155f-cb39-459a-b014-95ab0562253d)
+
 
  <b>🔒 Cuidando cada bit de información 🔒</b>
 
